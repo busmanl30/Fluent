@@ -5,7 +5,8 @@
 
 - Modern design
 - Many customization options
-- Almost any UI Element you would ever need 
+- Almost any UI Element you would ever need
+- Added custom cursor and unlock cursor support :D
 <br/>
 
 ## 🔌 Installation
